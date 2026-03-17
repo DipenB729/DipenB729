@@ -1,97 +1,103 @@
 <div align="center">
 
-# 👋 Hello, I'm **Dipen B**
+# 👋 Hello, I'm **Dil Bahadur Belbase**
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-👀-blue?style=for-the-badge)
-![Visitor](https://profile-counter.glitch.me/DipenB729/count.svg)
-
----
-
-### 🚀 Developer | 💡 Innovator | 🎯 Problem Solver
+### 💻 Web Application Developer | 🎯 Problem Solver
 
 [![GitHub](https://img.shields.io/badge/GitHub-DipenB729-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DipenB729)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DipenB729)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
 
 ---
 
 ## 🎯 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Dipen B"
-        self.passion = "Building amazing things"
-        self.location = "Earth 🌍"
-    
-    def code(self):
-        return "Turning coffee into code ☕"
-```
+- 🎓 Computer Science student  
+- 💡 Passionate about building **real-world web applications**  
+- ⚙️ Focused on **ASP.NET Core & modern web development**  
+- 🚀 Interested in **scalable systems and clean architecture**  
+- 🧠 Always learning and improving through projects  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AdminLTE](https://img.shields.io/badge/AdminLTE-3C8DBC?style=for-the-badge)
+
+### ⚙️ Backend
+![.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Pattern-blue?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 SmartCitizen
+- Local service request system  
+- Built with **ASP.NET Core**
+- Complaint → Admin → Service Provider workflow  
+
+### 🔹 Pet Mart
+- E-commerce platform for pet products  
+- Built using **ASP.NET MVC**
+
+### 🔹 ProjectMate
+- Team formation platform  
+- Built with **MERN Stack**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipenB729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipenB729&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=DipenB729&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipenB729&layout=compact&theme=tokyonight&hide_border=true" height="180">
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DipenB729&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DipenB729&theme=tokyonight&hide_border=true" height="180">
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DipenB729&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies">
-</div>
-
----
-
-## 📝 Currently
-
-- 🔭 Working on exciting projects
-- 🌱 Learning new technologies
-- 👯 Open to collaborations
-- 💬 Ask me about coding & tech
-- 📫 Reach me via GitHub
-
----
-
-## ☕ Support My Work
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/di)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/DipenB729)
+- 🔧 Building real-world systems using **.NET**
+- 🧩 Improving backend architecture & API design  
+- 📚 Learning advanced system design concepts  
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
-
-*Made with ❤️ and lots of ☕*
-
-![Visitor Count](https://profile-counter.glitch.me/DipenB729/count.svg)
+### ⭐ Thanks for visiting!
 
 </div>
