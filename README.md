@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-DipenB729-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DipenB729)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dil_Bahadur_Belbase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dil-bahadur-belbase-a39555237/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipendrabelbase1346@gmail.com)
 
 ---
 
