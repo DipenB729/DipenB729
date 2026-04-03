@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlsNHdyd3Ywb215N2xqano1aWFrdWZvczR4b2c5cmM1ZjR4aHZnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp61kl8rdZwuQ/giphy.gif" width="400"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DipenB729&label=Profile%20views&color=0e75b6&style=flat" alt="DipenB729" />
+</p>
 
 ## 💫 About Me:
 🔭 I’m currently working on real-world web applications and backend systems  
