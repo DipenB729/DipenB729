@@ -27,7 +27,6 @@
 
 ## 💻 Tech Stack:
 
-## 💻 Tech Stack:
 
 ### 🚀 Languages
 <p>
@@ -82,13 +81,6 @@
 </p>
  
 
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DipenB729&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DipenB729&theme=tokyonight&hide_border=true&layout=compact)
-
----
 
 ## 🔥 GitHub Streak:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DipenB729&theme=tokyonight&hide_border=true)
