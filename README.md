@@ -28,6 +28,8 @@
 ## 💻 Tech Stack:
 
 
+## 💻 Tech Stack:
+
 ### 🚀 Languages
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -79,8 +81,14 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC_Architecture-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
- 
 
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api?username=DipenB729&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=DipenB729&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🔥 GitHub Streak:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DipenB729&theme=tokyonight&hide_border=true)
