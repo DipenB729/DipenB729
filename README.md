@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlsNHdyd3Ywb215N2xqano1aWFrdWZvczR4b2c5cmM1ZjR4aHZnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp61kl8rdZwuQ/giphy.gif" width="400"/>
+  <img
+    src="https://raw.githubusercontent.com/DipenB729/DipenB729/main/dipen%20github%20image.png"
+    alt="Dil Bahadur Belbase coding"
+    width="700"
+  />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DipenB729&label=Profile%20views&color=0e75b6&style=flat" alt="DipenB729" />
 </p>
